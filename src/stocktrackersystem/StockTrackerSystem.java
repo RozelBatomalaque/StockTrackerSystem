@@ -1,4 +1,4 @@
-package stocktrackersystem;
+    package stocktrackersystem;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
